@@ -4,7 +4,9 @@ navbar:
   title: "WorkFlowTutor"
   left:
     - text: "Home"
-      href: index.html
+      menu:
+        - text: "Menu 1.1"
+          href: index.html
     - text: "About"
       href: about.html
     - text: "License"
